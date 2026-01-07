@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi, I'm Arquele
 
-<!--
-**arkellytavares699/ArkellyTavares699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Analyst** with formal training in **Information Management and Data Science**, currently developing practical skills in **Business Intelligence and data analytics**.
 
-Here are some ideas to get you started:
+My focus is on transforming data into meaningful insights that support **real-world business decisions**, particularly in areas such as sales analysis, inventory control and operational performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Data Analyst | BI & Data Analytics
+
+### 🧠 Data & Business Intelligence
+- Microsoft Access  
+- Excel (Pivot Tables)  
+- SQL  
+- Power BI  
+- DAX  
+
+---
+
+### 🐍 Programming & Data Analysis
+- Python  
+  - Pandas  
+  - NumPy  
+  - Matplotlib  
+- Jupyter Notebook  
+- Linux  
+
+---
+
+### 🔄 Data Concepts & Practices
+- ETL processes (Extract, Transform, Load)  
+- KPI definition, monitoring and analysis  
+- API integration and data consumption  
+
+---
+
+### 🌐 Additional Technical Knowledge
+- Basic HTML  
+- PHP  
+- Django  
