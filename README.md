@@ -25,6 +25,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
 
-![My GitHub Profile](https://animated-profile-stats.vercel.app/api/card?username=arkellytavares699&type=fire)
+![GitHub followers](https://img.shields.io/github/followers/ArkellyTavares699?style=flat-square&label=Seguidores&color=0077B5)
+![GitHub repos](https://img.shields.io/github/repos/ArkellyTavares699?style=flat-square&label=Repositórios&color=00D1FF)
+![GitHub commits](https://img.shields.io/github/commit-activity/m/ArkellyTavares699?style=flat-square&label=Commits&color=FF6F61)
+
 
 
