@@ -28,5 +28,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
-![Arquele's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArqueleTavares&show_icons=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArqueleTavares&layout=compact&hide_border=true&theme=radical)
+
+![Dashboard Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
