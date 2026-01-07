@@ -23,4 +23,4 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares)
+[![LinkedIn](www.linkedin.com/in/arquele-tavares-43b544244)
