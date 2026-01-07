@@ -25,5 +25,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkellyTavares699&show_icons=true&theme=radical)
 
