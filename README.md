@@ -16,3 +16,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Power Query](https://img.shields.io/badge/-Power%20Query-552F7E?style=flat-square&logo=powerquery&logoColor=white)
 ![ETL/ELT](https://img.shields.io/badge/-ETL/ELT-009688?style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
