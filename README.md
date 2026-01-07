@@ -23,7 +23,9 @@
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
-[![Estrelas](https://custom-icon-badges.demolab.com/github/stars/ArkellyTavares699?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/ArkellyTavares699?tab=repositories&sort=stargazers)
-[![Seguidores](https://custom-icon-badges.demolab.com/github/followers/ArkellyTavares699?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/ArkellyTavares699?tab=followers)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkellytavares699@gmail.com)
+[![Estrelas](https://img.shields.io/github/stars/ArkellyTavares699?style=for-the-badge&labelColor=488207&color=55960c)](https://github.com/ArkellyTavares699?tab=repositories&sort=stargazers)
+[![Seguidores](https://img.shields.io/github/followers/ArkellyTavares699?style=for-the-badge&labelColor=1155ba&color=236ad3)](https://github.com/ArkellyTavares699?tab=followers)
+
 
 
