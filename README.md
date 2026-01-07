@@ -24,8 +24,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
-### 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArkellyTavares699&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkellyTavares699&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
