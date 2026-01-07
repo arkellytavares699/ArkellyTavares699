@@ -1,7 +1,4 @@
-
-
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=0077B5&center=true&width=600&lines=Arquele+Tavares+Correia;Data+Analyst+%7C+BI+%26+Data+Analytics)
-
 
 🎓 Trained in Information Management & Data Science  
 📊 Data Analyst focused on BI & data-driven decision-making  
@@ -23,15 +20,26 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
-![Animated Dashboard](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)
+### 📊 GitHub Stats
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ArkellyTavares699&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-
-
-
-
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkellyTavares699&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
