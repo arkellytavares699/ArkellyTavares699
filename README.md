@@ -3,12 +3,10 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=0077B5&center=true&width=600&lines=Arquele+Tavares+Correia;Data+Analyst+%7C+BI+%26+Data+Analytics)
 
 
-
 🎓 Trained in Information Management & Data Science  
 📊 Data Analyst focused on BI & data-driven decision-making  
 🚀 Applying data to improve business performance and support decisions  
 📍 Portugal
-
 
 ### 🛠️ Skills & Tools
 
