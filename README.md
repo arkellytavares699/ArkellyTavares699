@@ -28,8 +28,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
+![Data Analytics Dashboard](https://img.icons8.com/?size=512&id=164808&format=gif)
 
-![Animated Dashboard](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 
 
