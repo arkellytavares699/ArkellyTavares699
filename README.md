@@ -10,11 +10,11 @@ My focus is on transforming data into meaningful insights that support **real-wo
 
 ### 🧠 Data & Business Intelligence
 - Microsoft Access  
-- Excel (Pivot Tables)  
+- Advanced Excel (Pivot Tables, data analysis)  
 - SQL  
-- Power BI (Interative DashBoards)
-- Power Query 
-- DAX  
+- Power BI (Interactive Dashboards)  
+- Power Query  
+- DAX
 
 ---
 
@@ -29,13 +29,29 @@ My focus is on transforming data into meaningful insights that support **real-wo
 ---
 
 ### 🔄 Data Concepts & Practices
-- ETL processes (Extract, Transform, Load)  
-- KPI definition, monitoring and analysis  
+- ETL & ELT processes (Extract, Transform, Load)  
+- Data ingestion from multiple sources  
+- Data cleaning and transformation  
+- Data validation and consistency checks  
+- KPI definition, monitoring and performance analysis  
+- Business metrics analysis  
 - API integration and data consumption  
+- Data modeling fundamentals  
+- Reporting and data visualization best practices  
+ 
 
 ---
 
 ### 🌐 Additional Technical Knowledge
 - Basic HTML  
 - PHP  
-- Django  
+- Django
+
+  ### 🔐 Cybersecurity Foundations
+- Fundamentals of Cybersecurity I & II  
+- Security Operations Center (SOC) fundamentals  
+- Cloud Security fundamentals  
+- Security management and governance  
+
+Applied knowledge focused on data protection, access control and risk awareness.
+
