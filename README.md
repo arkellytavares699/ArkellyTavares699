@@ -12,7 +12,8 @@ My focus is on transforming data into meaningful insights that support **real-wo
 - Microsoft Access  
 - Excel (Pivot Tables)  
 - SQL  
-- Power BI  
+- Power BI (Interative DashBoards)
+- Power Query 
 - DAX  
 
 ---
