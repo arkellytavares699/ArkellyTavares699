@@ -28,7 +28,33 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
-![Data Analytics Dashboard](https://img.icons8.com/?size=512&id=164808&format=gif)
+<svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="150" fill="#0A0F24"/>
+  
+  <!-- Axis lines -->
+  <line x1="30" y1="130" x2="370" y2="130" stroke="#444" stroke-width="2"/>
+  <line x1="30" y1="130" x2="30" y2="20" stroke="#444" stroke-width="2"/>
+  
+  <!-- Animated Chart Path -->
+  <path id="chartPath" fill="none" stroke="#00D1FF" stroke-width="3" d="M30,120 L80,90 L130,100 L180,70 L230,80 L280,60 L330,70 L370,50">
+    <animate attributeName="stroke-dasharray"
+             from="0,400"
+             to="400,0"
+             dur="3s"
+             repeatCount="indefinite" />
+  </path>
+  
+  <!-- Data Points -->
+  <circle cx="80" cy="90" r="4" fill="#00D1FF" />
+  <circle cx="130" cy="100" r="4" fill="#00D1FF" />
+  <circle cx="180" cy="70" r="4" fill="#00D1FF" />
+  <circle cx="230" cy="80" r="4" fill="#00D1FF" />
+  <circle cx="280" cy="60" r="4" fill="#00D1FF" />
+  <circle cx="330" cy="70" r="4" fill="#00D1FF" />
+  <circle cx="370" cy="50" r="4" fill="#00D1FF" />
+</svg>
+
 
 
 
