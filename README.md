@@ -29,5 +29,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
 
-![Coding Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Animated Dashboard](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
 
