@@ -25,9 +25,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
 
-[![Seguidores](https://img.shields.io/github/followers/ArkellyTavares699?style=flat-square&label=Seguidores&color=0077B5)](https://github.com/ArkellyTavares699)
-[![Repositórios](https://img.shields.io/github/repos/ArkellyTavares699?style=flat-square&label=Repositórios&color=00D1FF)](https://github.com/ArkellyTavares699)
-[![Estrelas](https://img.shields.io/github/stars/ArkellyTavares699?style=flat-square&label=Estrelas&color=F2C811)](https://github.com/ArkellyTavares699)
 
 
 
