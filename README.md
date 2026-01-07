@@ -34,7 +34,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/ArkellyTavares699?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/ArkellyTavares699?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
