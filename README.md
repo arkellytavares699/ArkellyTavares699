@@ -26,7 +26,7 @@
 
 
 ![Followers](https://img.shields.io/github/followers/ArkellyTavares699?style=flat-square&label=Seguidores&color=0077B5)
-![Repos](https://img.shields.io/github/repos/ArkellyTavares699?style=flat-square&label=Repositórios&color=00D1FF)
-![Commits](https://img.shields.io/github/commit-activity/m/ArkellyTavares699?style=flat-square&label=Commits&color=FF6F61)
+![Contributions](./assets/contributions.png)
+
 
 
