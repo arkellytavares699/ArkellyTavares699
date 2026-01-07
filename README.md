@@ -25,5 +25,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
 
-![My GitHub Profile](https://animated-profile-stats.vercel.app/api/card?username=ArkellyTavares699&type=fire)
+
 
