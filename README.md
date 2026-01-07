@@ -28,7 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arquele-tavares-43b544244)
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&size=30&color=0077B5&lines=Arquele+Tavares+Correia;Data+Analyst+%7C+BI+%26+Data+Analytics)
+![Animated Dashboard](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)
 
 
 
